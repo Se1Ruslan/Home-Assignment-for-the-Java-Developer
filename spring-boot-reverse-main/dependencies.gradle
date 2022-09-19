@@ -1,0 +1,12 @@
+ext {
+    springCloudVersion = "2021.0.1"
+    lombokVersion = "1.18.24"
+    junitVersion = "5.9.0"
+    testcontainersVersion = "1.17.3"
+    coditoryIntegrationTestVersion = "1.3.0"
+    springDependencyManagementVersion = "1.0.11.RELEASE"
+    springframeworkBootVersion = "2.6.7"
+    slf4jVersion = "2.0.1"
+    unirestVersion = "3.13.11"
+    awaitilityVersion = "4.2.0"
+}
